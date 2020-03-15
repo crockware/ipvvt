@@ -1,6 +1,3 @@
-http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/04.m3u8
-http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
-
 #EXTINF:0,MBC1-HD
 http://livecdnh2.tvanywhere.ae/ss/mbc1.isml/Manifest?v=
 #EXTINF:0,MBC1-HD+
@@ -33,32 +30,24 @@ http://livecdnh3.tvanywhere.ae/ss/mbcaction.isml/Manifest?v=
 http://95.170.215.103:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
 #EXTINF:0,mbc_bolly
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
-
-
 #EXTINF:0,LBC HD
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/index.m3u8?sd=10&rebase=on
 #EXTINF:0,LBC HD+
-
 #EXTINF: -1, Nat geo people HD ENGLISH
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-
 #EXTINF: -1, Nat geo wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-
 #EXTINF:0,LBC HD
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/index.m3u8?sd=10&rebase=on
 #EXTINF:0,LBC HD+
 http://livecdnh2.tvanywhere.ae/ss/lbc_int.isml/Manifest?v=
 #EXTINF:0,LBC HD++
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
-
 #EXTINF:0,AR:Mtv_Lebanon
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/04.m3u8
 #EXTINF:0,AR:Mtv_Lebanon+
 http://livecdnh3.tvanywhere.ae/ss/MTVLbnHD.isml/Manifest?v=
-
 #EXTINF:0,syriadrama HD++
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
-
 #EXTINF:0,AD_NAT_GEO_HD+
 http://livecdnh2.tvanywhere.ae/ss/nat_geo_auh.isml/Manifest?v=
