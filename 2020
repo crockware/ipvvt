@@ -1,33 +1,64 @@
-#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ ▆☆ LEBANON HD CHANNELS ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://www.wataan.com/uploads/12122017-030747PM.jpg" group-title="LEBANON HD",▁ ▂ ▄ ▅ ▆☆ LEBANON HD CHANNELS ☆▆ ▅ ▄ ▂ ▁
-https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AR:ABN-MTV HD" tvg-logo="https://shaamtimes.net/wp-content/uploads/2018/09/ww.png" group-title="LEBANON HD",AR:ABN-MTV HD
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-LBC HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/LBC.png" group-title="LEBANON HD",AR:LBN-LBC HD
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-LBC UND LDC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7NRgTbBfkSjxTQD86dMAQ10g6hNXlmCBl9Uqlp_Fc36Ql9TNr" group-title="LEBANON HD",AR:LBN-LBC UND LDC
-http://95.170.215.109/hls/m3u8/LDC-Backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-NBN HD" tvg-logo="https://lh3.googleusercontent.com/mKOHvPsgnGilgN1RbI1y_EkkKgA3h8nu7owTFN4C93F-JR-Sr8eTNbtvt3C6Bq3ccg" group-title="LEBANON HD",AR:LBN-NBN HD
-http://livecdnh1.tvanywhere.ae/hls/nbn/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-Future TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD0Jb8mJYiFmV2lYFFdh64DtmyejaKv3W-zxA=s900-mo-c-c0xffffffff-rj-k-no" group-title="LEBANON HD",AR:LBN-Future TV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL JADEED HD" tvg-logo="https://pbs.twimg.com/profile_images/1044664223811481601/mcqaxHRL_400x400.jpg" group-title="LEBANON HD",AR:LBN-AL JADEED HD
-http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-OTV HD" tvg-logo="http://awaelnews.com/wp-content/uploads/2018/12/9C4E460C-4D46-4DE4-B79F-F3E34ACCAEA7.png" group-title="LEBANON HD",AR:LBN-OTV HD
-https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL MANAR HD" tvg-logo="https://worldnews-sy.com/wp-content/uploads/2016/12/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B1.png" group-title="LEBANON HD",AR:LBN-AL MANAR HD
-http://stream.fastpublish.net/ALManarLive/tracks-v1a1/mono.m3u8?v=
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN- TL HD" tvg-logo="http://lebanonvoyager.com/temp/wp-content/uploads/2018/04/tl.jpg" group-title="LEBANON HD",AR:LBN- TL HD
-http://cdn.catiacast.video/tl/38ad46d994b30fa6aed632fc597ca329.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-AL Mayadeen" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Al-mayadeen_logo.jpg/220px-Al-mayadeen_logo.jpg" group-title="LEBANON HD",AR:LBN-AL Mayadeen
-http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-ALAAN HD" tvg-logo="https://pbs.twimg.com/profile_images/459248903678750720/xUF8G-pA_400x400.jpeg" group-title="LEBANON HD",AR:LBN-ALAAN HD
-http://livecdnh3.tvanywhere.ae/ss/alaantv.isml/Manifest?v=
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-IFILM" tvg-logo="" group-title="LEBANON HD",AR:LBN-IFILM
-https://5a61de8ed719d.streamlock.net:1443/ifilmlive/smil:ifilmar.smil/chunklist_w1513410362_b944100_slen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:LBN-Hawacom TV" tvg-logo="http://www.hawacom.tv/android-chrome-256x256.png" group-title="LEBANON HD",AR:LBN-Hawacom TV
-http://livecdnh3.tvanywhere.ae/hls/hawacom/04.m3u8
+
+#EXTINF:0,MBC1-HD
+http://livecdnh2.tvanywhere.ae/ss/mbc1.isml/Manifest?v=
+#EXTINF:0,MBC1-HD+
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:0,MBc MSR
+http://livecdnh2.tvanywhere.ae/ss/mbc_msr.isml/Manifest?v=
+#EXTINF:0,MBc MSR+
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:0,MBC2-HD
+http://livecdnh3.tvanywhere.ae/ss/mbc2.isml/Manifest?v=
+#EXTINF:0,,MBC2-HD+
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF:0,MBC4-HD
+http://livecdnh3.tvanywhere.ae/ss/mbc4.isml/Manifest?v=
+#EXTINF:0,MBC4-HD+
+http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+#EXTINF:0,MBC DRAMA
+http://livecdnh2.tvanywhere.ae/ss/mbc_drama.isml/Manifest?v=3657350558
+#EXTINF:0,MBC DRAMA+
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
+#EXTINF:0,MBC DRAMA++
+http://livecdnh2.tvanywhere.ae/ss/mbc_drama.isml/Manifest?v=
+#EXTINF:0,MBC_MAX-HD
+http://livecdnh3.tvanywhere.ae/ss/mbcmax.isml/Manifest?v=
+#EXTINF:0,MBC_MAX-HD+
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:0,MBC_ACTION-HD
+http://livecdnh3.tvanywhere.ae/ss/mbcaction.isml/Manifest?v=
+#EXTINF:0,MBC-IRAQ+
+http://95.170.215.103:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
+#EXTINF:0,mbc_bolly
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 
 
+#EXTINF:0,LBC HD
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/index.m3u8?sd=10&rebase=on
+#EXTINF:0,LBC HD+
 
+#EXTINF: -1, Nat geo people HD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
+#EXTINF: -1, Nat geo wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
+#EXTINF:0,LBC HD
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/index.m3u8?sd=10&rebase=on
+#EXTINF:0,LBC HD+
+http://livecdnh2.tvanywhere.ae/ss/lbc_int.isml/Manifest?v=
+#EXTINF:0,LBC HD++
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
+
+#EXTINF:0,AR:Mtv_Lebanon
+http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/04.m3u8
+#EXTINF:0,AR:Mtv_Lebanon+
+http://livecdnh3.tvanywhere.ae/ss/MTVLbnHD.isml/Manifest?v=
+
+#EXTINF:0,syriadrama HD++
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
+
+#EXTINF:0,AD_NAT_GEO_HD+
+http://livecdnh2.tvanywhere.ae/ss/nat_geo_auh.isml/Manifest?v=
