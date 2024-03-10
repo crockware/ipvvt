@@ -10,7 +10,7 @@ https://cdn1.ipslow.com/tv526_www.elahmad.com_aljadeed/index.m3u8?token=4d64256a
 #EXTINF:0 CUID="6" tvg-name="LB2" tvg-logo="https://i.ibb.co/B21KLqT/1c4558876234427dc8720965590cb53d-ezgif-com-webp-to-jpg-converter.jpg" group-title="LEBANON",
 https://cdn1.ipslow.com/tv526_www.elahmad.com_lb2/index.m3u8?token=d66e4ee89da9296d3df9b81b1f8d6f99936fd1b3-a081d3d573c9f7d4c95a82a6b1462692-1710054967-1710044167
 #EXTINF:0 CUID="7" tvg-name="LBC" tvg-logo="https://en.wikipedia.org/wiki/Lebanese_Broadcasting_Corporation_International#/media/File:LBC_INTERNATIONAL.png" group-title="LEBANON",
-https://www.zerotoone.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/http://mysat-live.ercdn.net/lbccustom/lbccustom.m3u8?st=AHdJhkg4GYaPOTdLkOf33Q&e=1709998385
+https://cdn1.ipslow.com/tv526_www.elahmad.com_lbc/index.m3u8?token=8daf02d75b4ec9661541ab01999f21c20ceecded-43da2fdd861c2ec8a70ad98717cc298a-1710055049-1710044249
 #EXTINF:0 CUID="8" tvg-name="MTV" tvg-logo="https://lebanon.mom-gmr.org/uploads/_processed_/5/d/csm_14023-1409_import_e74c3f2c5c.png" group-title="LEBANON",
 https://p-cdn1-604-cg15-linear-cbd46b77.movetv.com/15602/live/MTVBRT/f999a26cdd3011ee9c800025b5471205/audio/stereo/128/init.mp4
 #EXTINF:0 CUID="9" tvg-name="OTV" tvg-logo="https://lebanon.mom-gmr.org/uploads/_processed_/d/d/csm_14027-1409_import_0e7318630c.jpg" group-title="LEBANON",
