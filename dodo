@@ -12,7 +12,7 @@ https://cdn1.ipslow.com/tv526_www.elahmad.com_lb2/index.m3u8?token=d66e4ee89da92
 #EXTINF:0 CUID="7" tvg-name="LBC" tvg-logo="https://en.wikipedia.org/wiki/Lebanese_Broadcasting_Corporation_International#/media/File:LBC_INTERNATIONAL.png" group-title="LEBANON",
 https://cdn1.ipslow.com/tv526_www.elahmad.com_lbc/index.m3u8?token=8daf02d75b4ec9661541ab01999f21c20ceecded-43da2fdd861c2ec8a70ad98717cc298a-1710055049-1710044249
 #EXTINF:0 CUID="8" tvg-name="MTV" tvg-logo="https://lebanon.mom-gmr.org/uploads/_processed_/5/d/csm_14023-1409_import_e74c3f2c5c.png" group-title="LEBANON",
-https://p-cdn1-604-cg15-linear-cbd46b77.movetv.com/15602/live/MTVBRT/f999a26cdd3011ee9c800025b5471205/audio/stereo/128/init.mp4
+https://cdn1.ipslow.com/tv526_www.elahmad.com_mtv_lebanon/index.m3u8?token=17441ef734b82e033388e16eb7edbd748f45b069-dab68edec104c8db5ac60168ffdae346-1710055159-1710044359
 #EXTINF:0 CUID="9" tvg-name="OTV" tvg-logo="https://lebanon.mom-gmr.org/uploads/_processed_/d/d/csm_14027-1409_import_0e7318630c.jpg" group-title="LEBANON",
 https://p-cdn1-604-cg15-linear-cbd46b77.movetv.com/15806/live/OTVLB/8935381edd2c11ee84db0025b547120c/audio/stereo/160/init.mp4
 #EXTINF:0 CUID="10" tvg-name="QURAN" tvg-logo="https://ibb.co/THXj2SK][img]https://i.ibb.co/2j2VhQ8/QURAN.jpg" group-title="SAUDI",
