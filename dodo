@@ -14,7 +14,7 @@ https://cdn1.ipslow.com/tv526_www.elahmad.com_lbc/index.m3u8?token=8daf02d75b4ec
 #EXTINF:0 CUID="8" tvg-name="MTV" tvg-logo="https://lebanon.mom-gmr.org/uploads/_processed_/5/d/csm_14023-1409_import_e74c3f2c5c.png" group-title="LEBANON",
 https://cdn1.ipslow.com/tv526_www.elahmad.com_mtv_lebanon/index.m3u8?token=17441ef734b82e033388e16eb7edbd748f45b069-dab68edec104c8db5ac60168ffdae346-1710055159-1710044359
 #EXTINF:0 CUID="9" tvg-name="OTV" tvg-logo="https://lebanon.mom-gmr.org/uploads/_processed_/d/d/csm_14027-1409_import_0e7318630c.jpg" group-title="LEBANON",
-https://p-cdn1-604-cg15-linear-cbd46b77.movetv.com/15806/live/OTVLB/8935381edd2c11ee84db0025b547120c/audio/stereo/160/init.mp4
+https://cdn1.ipslow.com/tv526_www.elahmad.com_otv_lebanon/index.m3u8?token=3bf1bb8dab77d1273fdec425b98db96169e5e0cb-897e8a0a4b51a593468f49d9249d2c82-1710055215-1710044415
 #EXTINF:0 CUID="10" tvg-name="QURAN" tvg-logo="https://ibb.co/THXj2SK][img]https://i.ibb.co/2j2VhQ8/QURAN.jpg" group-title="SAUDI",
 https://live.kwikmotion.com/ksaquranlive/ksaquran.smil/playlist_dvr.m3u8?hdnts=exp=1709955441~acl=/ksaquranlive/ksaquran.smil/*~hmac=bcb043c149461b89dff30836551b2cdd6744555cee683133148a767e1d9f4048
 #EXTINF:0 CUID="11" tvg-name="SUNNAH" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="SAUDI",
